@@ -12,4 +12,4 @@ about:
       href: https://github.com
 ---
 
-I am a masters student studying Business Analytics at UC Irvine, California
+I am a masters student studying Business Analytics at UC Irvine, California, United States
